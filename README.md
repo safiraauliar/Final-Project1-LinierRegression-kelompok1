@@ -6,18 +6,18 @@ Final Project 1 ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
 ● Mampu mempersiapkan data untuk digunakan dalam model Linear Regression
 ● Mampu mengimplementasikan Linear Regression untuk membuat prediksi
 Attribute Information:
-1.id
-2.timestamp
-3.hour
-4.day
-5.month
-6.datetime
-7.timezone
-8.source: destinasi awal
-9.destination: destinasi akhir
-10.cab_type: tipe transportasi (uber / lyft)
-11.... dan lainnya
-Link dataset : <a href="https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma"><b> disini</b></a>
+##### 1.id
+##### 2.timestamp
+##### 3.hour
+##### 4.day
+##### 5.month
+##### 6.datetime
+##### 7.timezone
+##### 8.source: destinasi awal
+##### 9.destination: destinasi akhir
+##### 10.cab_type: tipe transportasi (uber / lyft)
+##### 11.... dan lainnya
+##### Link dataset : <a href="https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma"><b> disini</b></a>
 
 
 
