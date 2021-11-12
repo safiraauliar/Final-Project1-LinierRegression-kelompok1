@@ -2,9 +2,9 @@
 ## Project Overview
 Database ini memiliki 57 atribut, tetapi yang paling relevan ada 10 atribut dari semuanya.
 Final Project 1 ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
-● Mampu memahami konsep regression dengan Linear Regression
-● Mampu mempersiapkan data untuk digunakan dalam model Linear Regression
-● Mampu mengimplementasikan Linear Regression untuk membuat prediksi
+* Mampu memahami konsep regression dengan Linear Regression
+* Mampu mempersiapkan data untuk digunakan dalam model Linear Regression
+* Mampu mengimplementasikan Linear Regression untuk membuat prediksi
 Attribute Information:
 ##### 1.id
 ##### 2.timestamp
