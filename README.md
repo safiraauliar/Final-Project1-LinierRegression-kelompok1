@@ -1,8 +1,8 @@
 # Final-Project1-LinierRegression-kelompok1
 ## Nama anggota kelompok :
-- 1. Muhammad Arif Alfiani (PYTN-KS03-001)
-- 2. Reza Pradana (PYTN-KS03-002)
-- 3. Safira Aulia Rohmah (PYTN-KS03-009)
+1. Muhammad Arif Alfiani (PYTN-KS03-001)
+2. Reza Pradana (PYTN-KS03-002)
+3. Safira Aulia Rohmah (PYTN-KS03-009)
 ## Project Overview
 Database ini memiliki 57 atribut, tetapi yang paling relevan ada 10 atribut dari semuanya.
 Final Project 1 ini dibuat guna mengevaluasi konsep Regression sebagai berikut:
