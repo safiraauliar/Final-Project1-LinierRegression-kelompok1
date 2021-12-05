@@ -1,1 +1,1 @@
-{"data_columns": ["cab_type", "distance", "surge_multiplier", "uber black", "uber black suv", "lyft lux", "lyft lux black", "lyft lux black xl", "lyft", "lyft xl", "lyft shared", "uber pool", "uber x", "uber xl", "uber wav"]}
+{"data_columns": ["distance", "surge_multiplier", "uber black", "uber black suv", "lyft lux", "lyft lux black", "lyft lux black xl", "lyft", "lyft xl", "lyft shared", "uber pool", "uber x", "uber xl", "uber wav"]}
