@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cab Price Prediction</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+
+</head>
+<body>
+    <div class="card">
+
+        <div class="img"></div>
+        <h1>Cab Price Prediction</h1>
+        <form class="form">
+            <h2>Distance</h2>
+            <input class='distance' type='text' id='ui_distance' class='floatLabel' name="distance">
+        </form>
+        <form class="form">
+            <h2>Surge Multiplier</h2>
+            <input class='surge_multiplier' type='text' id='ui_surge_multiplier' class='floatLabel' name="surge_multiplier">
+        </form>
+        <form class="form">
+            <div>
+                <h2>Cab Name</h2>
+                <select class="name_cab" name="" id="ui_cab_name">
+                    <option value="" disabled='disabled', selected='selected'>Choose Cab Name</option>
+                </select>
+            </div>
+    
+            <button class="submit" onclick="onClickedPredictPrice()" type="button">Estimate Price</button>
+            <div class="result">
+                <h2 id="predictedPrice"></h2>
+            </div>
+        </form>
+    </div>
+
+    
+</body>
+</html>
